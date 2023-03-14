@@ -1,0 +1,13 @@
+h1{
+    color: red;
+}
+p{
+    color: green;
+}
+
+c-your-child-component{
+    color: blueviolet;
+}
+c-your-child-component h1{
+    color: blue;
+}

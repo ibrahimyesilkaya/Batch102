@@ -1,0 +1,7 @@
+<aura:component implements="flexipage:availableForAllPageTypes">
+ <lightning:card>
+    <p>ben parenttayim</p>
+    <c:childAura/>
+ </lightning:card>
+
+</aura:component>	
